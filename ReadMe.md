@@ -64,3 +64,8 @@ delay(100);
 <img src="Stuff\ArduinoBlink.gif"><br>
 </div><br>
 
+## Parte 2:
+
+#### Tinkercard LED:
+
+https://www.tinkercad.com/things/g7UzLWMLHPT/editel?sharecode=Z_hGcwTE1IkRkq3N6PnkrC91PSOE7MZ6lG5RG3Bglmw
