@@ -66,6 +66,6 @@ delay(100);
 
 ## Parte 2:
 
-#### Tinkercard LED:
+#### Tinkercad LED:
 
 https://www.tinkercad.com/things/g7UzLWMLHPT/editel?sharecode=Z_hGcwTE1IkRkq3N6PnkrC91PSOE7MZ6lG5RG3Bglmw
