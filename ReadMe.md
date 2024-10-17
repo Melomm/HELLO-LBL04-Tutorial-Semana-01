@@ -4,7 +4,11 @@
 ## Parte 1:
 
 ### Código no Arduino - Blink SOS
-![](Stuff\ArduinoCodigo.png)
+
+<div align="center">
+<sub>Figura 1 — Codigo <a href="#c6"></a></sub> </br>
+<img src="Stuff\ArduinoCodigo.png"><br>
+</div><br>
 
 ```
 const int Led = 13;
@@ -47,8 +51,16 @@ delay(100);
 
 ### Arduino
 #### GIF 1 - Conectado
-![](Stuff\ArduinoProvaDeConec.gif)
+
+<div align="center">
+<sub>Figura 2 — Conectado <a href="#c6"></a></sub> </br>
+<img src="Stuff\ArduinoProvaDeConec.gif"><br>
+</div><br>
 
 #### GIF 2 - LED SOS
-![](Stuff\ArduinoBlink.gif)
+
+<div align="center">
+<sub>Figura 3 — LED SOS <a href="#c6"></a></sub> </br>
+<img src="Stuff\ArduinoBlink.gif"><br>
+</div><br>
 
